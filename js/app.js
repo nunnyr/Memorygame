@@ -19,6 +19,7 @@ console.log(cards)
  */
 
 // Shuffle function from http://stackoverflow.com/a/2450976
+
 function shuffle(array) {
     var currentIndex = array.length, temporaryValue, randomIndex;
 
@@ -34,7 +35,9 @@ function shuffle(array) {
 }
 
 
-//shuffle function has not been used yet 
+//shuffle function has not been used yet
+//receiving a bug after a few clicks.
+ 
 /*
  * set up the event listener for a card. If a card is clicked:
  *  - display the card's symbol (put this functionality in another function that you call from this one)
