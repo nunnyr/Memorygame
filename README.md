@@ -4,7 +4,7 @@
 I've built this site to showcase the work I've done through Udacity's FrontEnd Nanodegree Program with Google. This site is a game, the user finds a total of 8 pairs to win. The game reinforced event delegation as well as DOM manipulation.
 
 <h2>Build Status</h2>
-This project is completed.
+This project is completed but is currently being redone for added features. Expect changes. 
 
 
 <h2>Tech/Frameworks used</h2>
